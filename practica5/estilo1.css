@@ -1,0 +1,31 @@
+html{
+    font-size: 14px;
+    color: red;
+}
+
+#principal {
+    text-align: center;
+    width: 50px
+    border: 1px dashed;
+    text-decoration: underline;
+}
+
+.clase1 {
+    width: 90%;
+    text-align: justify;
+    color: magenta;
+    font-size: 10px;
+}
+
+label {
+    font-size: 20px;
+    color: green;
+    margin: 10px auto;
+}
+
+p {
+    font-size: 1.2m;
+    text-align: justify;
+    border: 1px solid #FFC659;
+    background: aa9040;
+}
